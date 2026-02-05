@@ -18,7 +18,7 @@ export default function Register() {
 
   return (
     <div className="box">
-      <h2>Register</h2>
+      <h2>Register Button</h2>
 
       <input
         placeholder="username"
